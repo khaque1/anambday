@@ -12,7 +12,8 @@
   }
   #happy20 {
     font-family: 'Patrick Hand SC', cursive;
-    background-image: url("header/pink.jpg")
+    background-image: url("header/pink.jpg");
+
   }
   * {box-sizing:border-box}
 
