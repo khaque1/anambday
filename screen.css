@@ -94,17 +94,17 @@
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
-  -webkit-animation-duration: 5.0s;
+  -webkit-animation-duration: 0.5s;
   animation-name: fade;
-  animation-duration: 5.0s;
+  animation-duration: 0.5s;
 }
 
 @-webkit-keyframes fade {
   from {opacity: .3}
-  to {opacity: 1}
+  to {opacity: .8}
 }
 
 @keyframes fade {
   from {opacity: .3}
-  to {opacity: 1}
+  to {opacity: .8}
 }
