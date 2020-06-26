@@ -8,7 +8,8 @@
   /* Add a gray background color and some padding to the footer */
   footer {
     background-color: #f2f2f2;
-    padding: 25px;
+    padding: 25px;    
+    font-family: 'Patrick Hand SC', cursive;
   }
   #happy20 {
     font-family: 'Patrick Hand SC', cursive;
@@ -17,6 +18,12 @@
   }
   * {box-sizing:border-box}
 
+/* Person 1 */
+#person1header {
+  font-family: 'Frank Ruhl Libre', serif;
+  background-image: url("header/abstractpinkgold.jpg");
+
+}
 /* Slideshow container */
 .slideshow-container {
   max-width: 400px;
