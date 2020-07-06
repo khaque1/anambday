@@ -24,6 +24,12 @@
   background-image: url("header/abstractpinkgold.jpg");
 
 }
+
+#person1header {
+  font-family: 'Frank Ruhl Libre', serif;
+  background-image: url("header/goldconfetti.jpg");
+
+}
 /* Slideshow container */
 .slideshow-container {
   max-width: 400px;
