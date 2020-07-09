@@ -25,10 +25,15 @@
 
 }
 
-#person1header {
+#linkheader {
   font-family: 'Frank Ruhl Libre', serif;
   background-image: url("header/goldconfetti.jpg");
 
+}
+
+#freshheader {
+  font-family: 'Frank Ruhl Libre', serif;
+  background-image: url("header/arrows.jpg");
 }
 /* Slideshow container */
 .slideshow-container {
