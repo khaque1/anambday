@@ -28,3 +28,8 @@ function showSlides() {
   dots[slideIndex-1].className += " active";
   setTimeout(showSlides, 5000); // Change image every 5 seconds
 }
+
+
+//Malikah Photo Gallery
+
+;

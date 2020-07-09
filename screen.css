@@ -137,3 +137,34 @@
   from {opacity: .4}
   to {opacity: 1}
 }
+
+
+/* Malikah Photo Gallery */
+#photos {
+  opacity: .88;
+}
+
+#photos img {
+  width: 30%;
+  float: left;
+  display: block;
+  margin: 2px;
+}
+
+#photos ul {
+  list-style: none;
+  margin: 0px auto;
+  padding: 10px;
+  display: block;
+  max-width: 900px;
+  text-align: center;
+}
+
+
+#photos {
+  width: 100%;
+}
+
+#photo-gallery {
+  width: 100%;
+}
