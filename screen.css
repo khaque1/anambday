@@ -16,12 +16,25 @@
     background-image: url("header/pink.jpg");
 
   }
-  
+ /* Click me page */ 
   #linkheader {
-    font-family: 'Patrick Hand SC', cursive;
+    font-family: 'Courier New', bold;
+	color: #990000;
     background-image: url("header/abstractgray.jpg");
 
   }
+ h3 { 
+  font-family: 'Lucida Sans Unicode', cursive, Verdana; 
+  color: #990000;  
+  
+  }
+ ul  { 
+  font-family: 'Lucida Sans Unicode', cursive, Verdana; 
+  color: #999999;  
+  
+  }
+  
+  
   * {box-sizing:border-box}
 
 /* Person 1 */
