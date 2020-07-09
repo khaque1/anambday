@@ -16,6 +16,12 @@
     background-image: url("header/pink.jpg");
 
   }
+  
+  #linkheader {
+    font-family: 'Patrick Hand SC', cursive;
+    background-image: url("header/abstractgray.jpg");
+
+  }
   * {box-sizing:border-box}
 
 /* Person 1 */
