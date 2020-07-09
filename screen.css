@@ -146,6 +146,13 @@
 
 
 /* Malikah Photo Gallery */
+#malikah {
+  font-family: 'Vollkorn', serif;
+}
+#malikahright {
+  font-family: 'Vollkorn', serif;
+  text-align: right;
+}
 #photos {
   opacity: .88;
 }
