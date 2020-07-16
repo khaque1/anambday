@@ -50,6 +50,12 @@
 
 }
 
+#fambamheader {
+  font-family: 'Patrick Hand SC', serif;
+  background-image: url("header/triangles.jpg");
+
+}
+
 #freshheader {
   font-family: 'Patrick Hand SC', serif;
   background-image: url("header/scallop.jpg");
@@ -187,6 +193,13 @@
 
 #bigphoto {
   width:70%;
+  margin: 0px auto;
+  padding: 10px;
+  display: block;
+  text-align: center;
+}
+#smallphoto {
+  width:40%;
   margin: 0px auto;
   padding: 10px;
   display: block;
