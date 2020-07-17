@@ -69,6 +69,10 @@
   font-family: 'Patrick Hand SC', serif;
   background-image: url("header/arrows.jpg");
 }
+#tiktokheader {
+  font-family: 'Patrick Hand SC', serif;
+  background-image: url("header/tiktok.jpg");
+}
 
 
 /* Slideshow container */
