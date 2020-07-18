@@ -77,6 +77,30 @@
 }
 
 
+/*Our page two tiktoks */
+#wrapper { 
+  width: 920px; 
+  height: auto; 
+  margin: 0 auto;
+}
+#wrapper video {
+  display:block;
+  
+  padding: 20px;;
+}
+#tiktok1 { 
+  width: 47.5%; 
+  height: 300px; 
+  float: left; 
+  margin-right: 5%;
+} 
+
+#tiktok2 { 
+  width: 47.5%; 
+  height: 300px; 
+  float: left; 
+}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 400px;
