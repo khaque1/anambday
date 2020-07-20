@@ -55,6 +55,10 @@
   background-image: url("header/triangles.jpg");
 
 }
+#noohaheader {
+  font-family: 'Patrick Hand SC', serif;
+  background-image: url(header/arrows.jpg)
+}
 
 #freshheader {
   font-family: 'Patrick Hand SC', serif;
