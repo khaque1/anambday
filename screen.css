@@ -76,6 +76,14 @@
   background-image: url("header/tiktok.jpg");
 }
 
+#freshname {
+  font-family: 'Sofia', cursive;
+  background-image: url("header/bluewater.jpg");
+  font-weight: bold;
+  font-size: 32px;
+  align-self: center;
+  padding: 15px;
+}
 
 /*Our page two tiktoks */
 #wrapper { 
@@ -196,6 +204,11 @@
   font-family: 'Vollkorn', serif;
   line-height: 1.5;
 }
+#ramisha {
+  text-align: center;
+  font-family: 'Vollkorn', serif;
+  line-height: 1.5;
+}
 #malikahright {
   font-family: 'Vollkorn', serif;
   text-align: right;
@@ -237,8 +250,19 @@
 }
 #photos {
   width: 100%;
+  opacity: .88;
 }
 
 #photo-gallery {
   width: 100%;
 }
+
+img.logo {
+display:inline-block;
+margin-left:auto;
+margin-right:auto;
+width:30%;
+max-width: 1000px;
+}
+
+#twoimages{text-align:center;}
