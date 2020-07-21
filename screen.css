@@ -271,5 +271,12 @@ margin-right:auto;
 width:30%;
 max-width: 1000px;
 }
+img.sobiapic {
+  display:inline-block;
+  margin-left:auto;
+  margin-right:auto;
+  width:20%;
+  max-width: 1000px;
+  }
 
 #twoimages{text-align:center;}
